@@ -1,6 +1,9 @@
 # Python_Animated_optical_illusions_Generator
 Generating Optical illusions that Moves using Python
 
+<img style="position: absolute;" src="{main_img}" />
+<marquee width="{width}" behavior="alternate" scrollamount="1" direction="right" loop="true">
+<img style="position: relative; overflow-x:hidden;" src="{mask_img}" /></marquee>
 
 ## About
 
