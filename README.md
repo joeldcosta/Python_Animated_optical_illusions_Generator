@@ -1,9 +1,9 @@
 # Python_Animated_optical_illusions_Generator
 Generating Optical illusions that Moves using Python
 
-<img style="position: absolute;" src="https://github.com/joeldcosta/Python_Animated_optical_illusions_Generator/blob/main/image_New.png" />
-<marquee width="50" behavior="alternate" scrollamount="1" direction="right" loop="true">
-<img style="position: relative; overflow-x:hidden;" src="https://github.com/joeldcosta/Python_Animated_optical_illusions_Generator/blob/main/mask_New.png" /></marquee>
+<img style="position: absolute;" src="https://raw.githubusercontent.com/joeldcosta/Python_Animated_optical_illusions_Generator/main/image_New.png" />
+<marquee width="634" scrollamount="1" direction="right" loop="true">
+<img style="position: relative; overflow-x:hidden;" src="https://raw.githubusercontent.com/joeldcosta/Python_Animated_optical_illusions_Generator/main/mask_New.png" /></marquee>
 
 ## About
 
